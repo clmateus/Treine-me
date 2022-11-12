@@ -48,3 +48,8 @@ Sinta-se livre para me mandar uma mensagem caso perceba algum ponto onde posso m
 * Veja esse projeto na web: [Treine.me](https://clmateus.github.io/Treine-me)
 
 <p align="right">(<a href="#readme-top">Voltar ao início</a>)</p>
+
+[github-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[github-url]: https://github.com/clmateus
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/clmateus
