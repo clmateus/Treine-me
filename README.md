@@ -18,6 +18,8 @@
 
 Uma página criada com HTML e estilizada com CSS.
 
+<img src="./images/imgparagithub.png" />
+
 Neste projeto pude desenvolver algumas habilidades como:
 * HTML semântico
 * Inserção de arquivos de mídia no HTML
