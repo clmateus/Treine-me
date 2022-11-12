@@ -7,7 +7,7 @@
   </a>
 
   <p align="center">
-    Uma landing page de uma academia.
+    A landing page de uma academia.
     <br />
     <a href="https://clmateus.github.io/Treine-me" />Veja esse projeto na Web!</a>
   </p>
