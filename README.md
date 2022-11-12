@@ -18,7 +18,7 @@
 
 Uma página criada com HTML e estilizada com CSS.
 
-<img src="./images/imgparagithub.png" />
+<img src="./images/imgparagithub.jpg" />
 
 Neste projeto pude desenvolver algumas habilidades como:
 * HTML semântico
