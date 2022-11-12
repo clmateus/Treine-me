@@ -6,8 +6,6 @@
     <img src="./images/logo.svg" alt="Logo" />
   </a>
 
-  <h3 align="center">Treine.me</h3>
-
   <p align="center">
     Uma página de uma academia.
     <br />
