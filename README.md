@@ -5,6 +5,7 @@
   <a href="https://github.com/clmateus/Treine-me">
     <img src="./images/logo.svg" alt="Logo" />
   </a>
+  <br />
 
   <p align="center">
     Uma página de uma academia.
